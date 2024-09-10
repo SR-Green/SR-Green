@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm new to GitHub and interested in learning Python for automated workflows in material medicinal chemistry laboratory workflows.
+I'm new to GitHub and interested in learning Python for automated workflows in medicinal chemistry laboratory workflows.
 
 <!--
 **SR-Green/SR-Green** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
